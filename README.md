@@ -1,2 +1,3 @@
 # practice
-This is my first git repositry
+This is my first git repositry.
+Author-Tanzeel Rehman
